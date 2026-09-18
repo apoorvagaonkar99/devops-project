@@ -1,0 +1,6 @@
+services:
+  portfolio:
+    image: apoorva-portfolio
+    container_name: portfolio
+    ports:
+      - "80:80"
