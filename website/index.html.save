@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+--z<html lang="en">q
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +12,7 @@
     <img src="Photo.jpeg" alt="Apoorva D Gaonkar" class="profile-pic">
 
     <h1>Apoorva D Gaonkar</h1>
-    <h2>Computer Science Engineer | AI & Cloud Enthusiast</h2>
+    <h2>Software Engineer | DevOps Learner</h2>
 
     <div class="skills">
         <span>AWS EC2</span>
@@ -22,31 +21,16 @@
         <span>Git</span>
         <span>GitHub</span>
         <span>Python</span>
-        <span>Java</span>
         <span>SQL</span>
-        <span>Machine Learning</span>
-        <span>RAG</span>
-        <span>FAISS</span>
-        <span>Generative AI</span>
     </div>
 
     <section>
         <h3>About Me</h3>
         <p>
-            Computer Science Engineering graduate passionate about
-            Artificial Intelligence, Machine Learning, Cloud Computing,
-            Software Development and DevOps. Experienced in developing
-            AI-powered applications and deploying projects using AWS,
-            Docker and GitHub.
+            Computer Science Engineering graduate passionate about Software Development,
+            AI/ML, Cloud Computing and DevOps. Experienced in building AI-based
+            applications and deploying projects using AWS, Docker and GitHub.
         </p>
-    </section>
-
-    <section>
-        <h3>Career Highlights</h3>
-        <p>✓ Built multiple AI and Full Stack projects</p>
-        <p>✓ Deployed applications on AWS EC2 using Docker</p>
-        <p>✓ Worked with RAG, FAISS and Gemini AI</p>
-        <p>✓ Experience in Python, Java, SQL and Web Development</p>
     </section>
 
     <section>
@@ -66,7 +50,7 @@
 
         <div class="project-card">
             <h4>Graph Based Insider Threat Detection</h4>
-            <p>Machine Learning • Network Security • Graph Analytics</p>
+            <p>Machine Learning • Network Security • Graph Analysis</p>
             <a href="https://github.com/apoorvagaonkar99/Insider-threat-detection" target="_blank">View Project</a>
         </div>
 
@@ -87,18 +71,7 @@
             <a href="https://github.com/apoorvagaonkar99" target="_blank">GitHub</a>
             <a href="https://www.linkedin.com/in/apoorva-gaonkar-3442b2266" target="_blank">LinkedIn</a>
         </div>
-
-        <br>
-
-        <a href="Apoorva_D_Gaonkar.pdf" class="resume-btn" download>
-            📄 Download Resume
-        </a>
-
     </section>
-
-    <footer>
-        <p>© 2026 Apoorva D Gaonkar | Hosted on AWS EC2 using Docker</p>
-    </footer>
 
 </div>
 
